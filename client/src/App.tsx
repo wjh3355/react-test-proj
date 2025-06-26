@@ -9,7 +9,7 @@ export default function App() {
          <Counter/>
          <Text/>
          <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eos vitae omnis beatae commodi sit recusandae laborum. Omnis perspiciatis adipisci similique excepturi! Dolore quas dolorum aspernatur sint voluptatibus consequuntur totam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eos vitae omnis beatae commodi sit recusandae laborum. Omnis perspiciatis adipisci similique excepturi! Dolore quas dolorum aspernatur sint voluptatibus consequuntur totam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam earum officia odit quam, nostrum eveniet est deserunt cumque dignissimos dolorum suscipit quos, provident blanditiis facilis? Itaque distinctio nihil placeat quia! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sed enim dolore, quos doloribus dicta tempora voluptate ducimus. Ratione est laborum modi dolor quo facere eius eum velit unde obcaecati.
          </div>
       </section>
    )

@@ -1,11 +1,12 @@
-import express from "express";
+import express, { Request, Response } from "express";
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-app.get("/api/health", (req, res) => {
+app.get("/api/health", (req: Request, res: Response) => {
+   console.log("/api/health: All good!");
    res.json({ status: "OK" });
 });
 
